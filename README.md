@@ -1,6 +1,7 @@
 # SSH KOMANDE 
 
-|Naredba SSH|Objašnjenje|
+|Naredba SSH|Objašnjenje||
+|---|---|---|
 |ls|	Prikaži sadržaj direktorija (navedite nazive datoteka).|
 |cd|	Promijeni imenik.|
 |mkdir|	Stvorite novu mapu (direktorij).|
