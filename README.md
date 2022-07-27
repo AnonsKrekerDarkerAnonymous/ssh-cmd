@@ -3,6 +3,7 @@
 |Naredba SSH|Objašnjenje||
 |---|---|---|
 |ls|	Prikaži sadržaj direktorija (navedite nazive datoteka).|
+|ssh |user@ip host ili server klijent, konekcija ili tuneliranje.|
 |cd|	Promijeni imenik.|
 |mkdir|	Stvorite novu mapu (direktorij).|
 |touch|	Stvorite novu datoteku.|
