@@ -3,6 +3,7 @@
 |Naredba SSH|Objašnjenje||
 |---|---|---|
 |ls|	Prikaži sadržaj direktorija (navedite nazive datoteka).|
+|Kill|The kill command kills everything you enter, but you must be connected to a PC, server... Deleting from the system win, lin...|
 |ssh |user@ip host ili server klijent, konekcija ili tuneliranje.|
 |cd|	Promijeni imenik.|
 |mkdir|	Stvorite novu mapu (direktorij).|
