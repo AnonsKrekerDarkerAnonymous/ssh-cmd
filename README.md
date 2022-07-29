@@ -4,7 +4,7 @@
 |---|---|---|
 |ls|	Prikaži sadržaj direktorija (navedite nazive datoteka).|
 |Kill|The kill command kills everything you enter, but you must be connected to a PC, server... Deleting from the system win, lin...|
-|ssh |user@ip host ili server klijent, konekcija ili tuneliranje.|
+|ssh |SSH User @ IP Host or Server Client, Connection or Tunnel.|
 |cd|	Promijeni imenik.|
 |mkdir|	Stvorite novu mapu (direktorij).|
 |touch|	Stvorite novu datoteku.|
